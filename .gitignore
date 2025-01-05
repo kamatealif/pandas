@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pychache__
+codium-jupyter
+./data
+/data/*
