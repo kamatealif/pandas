@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 
 data/
 
  # ignore ipynb check points 
 .ipynb_checkpoints
+=======
+<<<<<<< HEAD
+
+=======
+data/
+>>>>>>> 2139b31 (Commit changes)
+>>>>>>> 79e5e32 (add remove rows)
